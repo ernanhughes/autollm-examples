@@ -1,0 +1,7 @@
+autollm
+gradio
+gitpython
+nbconvert
+ipykernel
+jupyter
+python-dotenv
